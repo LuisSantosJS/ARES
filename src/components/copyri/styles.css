@@ -1,0 +1,18 @@
+.endView{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.textEndView{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 0px;
+    padding: 0px;
+    font-weight: 100;
+    font-size: 6px;
+    width: 50%;
+}

@@ -1,0 +1,61 @@
+.divbodyfirstssSATIS0{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    flex-direction: column;
+    justify-content:center;
+    background-color: white;
+}
+
+.divcenterfirstsssSATIS0{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100vw;
+    height: 90%;
+}
+
+.inputssSATIS0{
+    width: 70%;
+    max-width: 700px !important;
+    height: 40px !important;
+
+
+}
+.inputssSATIS0:focus{
+    outline: 0;
+}
+.centerdivxxSATIS0{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tituloformsSATIS0{
+    font-weight: 500;
+    color: #707070
+}
+.rouinpiuttscheckkSATIS0{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 70%;
+    max-width: 700px !important;
+
+}
+
+.submitSATIS0{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    max-width: 500px !important;
+    height: 35px;
+    background-color:#2d6fae;
+    border-radius: 4px;
+}

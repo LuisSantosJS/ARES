@@ -1,0 +1,131 @@
+.divbodyfirstc{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    flex-direction: column;
+    justify-content:center;
+    background-color: white;
+}
+
+.divcenterfirstc{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100vw;
+    height: 90%;
+}
+
+.inputssc{
+    width: 70%;
+    max-width: 700px !important;
+    height: 40px !important;
+
+
+}
+.inputssc:focus{
+    outline: 0;
+}
+.centerdivxxc{
+    display: flex;
+    height: 70%;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tituloformsc{
+    font-weight: 500;
+    color: #707070
+}
+.rouinpiuttscheckkc{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 70%;
+    max-width: 700px !important;
+
+}
+
+.submitc{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    max-width: 500px !important;
+    height: 35px;
+    background-color:#2d6fae;
+    border-radius: 4px;
+}
+
+.titlesra{
+    width: 70%;
+    text-align: center;
+    font-weight: 700;
+    color: #5283a1;
+    font-size: 23px;
+
+}
+
+.bobytextsra{
+    width: 70%;
+    text-align: center;
+    padding: 2px;
+    font-weight: 400;
+    color: #707070;
+    font-size: 18px;
+
+}
+.divCorretorcenter{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.profilecorretor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background-color: #e5e5e5e5;
+}
+
+.rowyesno{
+    display: flex;
+    width: 80%;
+    height: 20%;
+    max-width: 700px;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.botaoyesno{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 70px;
+
+    height: 25px;
+    border-radius: 7px;
+    color: white;
+}
+
+.registraratend{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9px;
+    width: 240px;
+    max-width: 700px;
+    height: 30px;
+    color: white;
+    background-color: #1bac03;
+
+}
